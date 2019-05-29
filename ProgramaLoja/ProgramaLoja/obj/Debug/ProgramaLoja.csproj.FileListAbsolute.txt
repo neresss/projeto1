@@ -1,0 +1,12 @@
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe.config
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.pdb
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csprojResolveAssemblyReference.cache
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.exe
+C:\arquivos\aulas 2019\Programação de computadores\avaliacao\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.pdb
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe.config
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.exe
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.pdb
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.exe
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\bin\Debug\ProgramaLoja.pdb
+C:\Users\13000011595\Desktop\programaloja-master\ProgramaLoja\ProgramaLoja\obj\Debug\ProgramaLoja.csprojResolveAssemblyReference.cache
